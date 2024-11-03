@@ -16,28 +16,9 @@ import { SlUser, SlBriefcase, SlEnvolope, SlTrophy } from 'react-icons/sl'
 
 export const menu = [
   {
-    name: 'Home',
-    slug: '/',
-    Icon: TfiHome,
-    number: 1,
-  },
-  {
     name: 'Home (2)',
     slug: '/index-2',
     Icon: TfiHome,
-    number: 2,
-  },
-  {
-    name: 'Home (3)',
-    slug: '/index-3',
-    Icon: TfiHome,
-    number: 3,
-  },
-  {
-    name: 'Home (4)',
-    slug: '/index-4',
-    Icon: TfiHome,
-    number: 4,
   },
   {
     name: 'About',
@@ -72,18 +53,8 @@ export const menu = [
 
 export const social = [
   {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/',
-    Icon: IoLogoTwitter,
-  },
-  {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/',
-    Icon: IoLogoInstagram,
-  },
-  {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
+    url: 'https://www.linkedin.com/in/kelseaconrad1993/',
     Icon: IoLogoLinkedin,
   },
 ]

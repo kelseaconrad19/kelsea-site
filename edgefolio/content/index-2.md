@@ -1,76 +1,69 @@
 ---
 layout: Home-2
 seo:
-  title: Web Developer
-  description: Custom description for this page goes here
+  title: Front End Developer & Software Engineer
+  description: Home page for my personal portfolio website
 ---
-
-
 
 ---main
 images:
-  - src: /hero-2.png
-    alt: my photo
-  - src: /hero-mobile.jpg
-    alt: my photo
+
+- src: /photos/profile-pic.png
+  alt: my photo
+- src: /hero-mobile.jpg
+  alt: my photo
+
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Kelsea Conrad</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# _Front End Developer_ <span>&</span> _Software Engineer_
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle.
+Hi! I'm Kelsea Conrad, a Front End Developer and Software Engineer based in Charleston, SC. I have a passion for web development and love to create websites and applications that are both beautiful and functional. I have experience working with a variety of technologies including HTML, CSS, JavaScript, React, and Node.js, and I'm always looking for new opportunities to learn and grow as a developer!
 
 ```js {2-4} showLineNumbers
 const services = [
-  'UI/UX Design'
+  'Resonsive Web Design'
   'Web Development'
-  'Mobile App Development'
+  'Backend Engineering'
 ]
 if (have_a_project) navigate('/contact')
 ```
 
-
-
 ---achievements
-- number: 6+
+
+- number: 1+
   text: Years of experience
-- number: 70+
-  text: Projects Completed
-- number: 12
-  text: OpenSource Libraries
 - number: 50+
-  text: Clients World Wide
+  text: Projects Completed
+- number: 3+
+  text: Certifications
+
 ---
 
+## ---cta
 
-
----cta
----
 <Button href="/contact" size="sm">
   Download Resume
 </Button>
 
 [Get in Touch](/contact)
 
-
-
 ---companies
 title:
 list:
-  - name: Company 1
-    icon:
-      src: /icons/logo-1.svg
-  - name: Company 2
-    icon:
-      src: /icons/logo-3.svg
-  - name: Company 3
-    icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
-    icon:
-      src: /icons/logo-4.svg
+
+- name: Company 1
+  icon:
+  src: /icons/logo-1.svg
+- name: Company 2
+  icon:
+  src: /icons/logo-3.svg
+- name: Company 3
+  icon:
+  src: /icons/logo-3.svg
+- name: Company 4
+  icon:
+  src: /icons/logo-4.svg
+
 ---
